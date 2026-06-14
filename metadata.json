@@ -1,0 +1,6 @@
+{
+  "name": "Toko Sepatu Online",
+  "description": "Platform e-commerce modern untuk berbelanja sepatu dengan fitur lengkap seperti katalog produk, keranjang, detail produk interaktif, checkout, akun pengguna, dan dashboard admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
